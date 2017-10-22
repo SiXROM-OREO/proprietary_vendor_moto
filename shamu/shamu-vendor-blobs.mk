@@ -117,7 +117,6 @@ PRODUCT_COPY_FILES += \
     vendor/moto/shamu/proprietary/lib/libsupermodel.so:system/lib/libsupermodel.so \
     vendor/moto/shamu/proprietary/lib/libtinycompress.so:system/lib/libtinycompress.so \
     vendor/moto/shamu/proprietary/lib/libtrainingcheck.so:system/lib/libtrainingcheck.so \
-    vendor/moto/shamu/proprietary/lib/libldacBT_enc.so:system/lib/libldacBT_enc.so \
     vendor/moto/shamu/proprietary/vendor/firmware/keymaster/keymaster.b00:system/vendor/firmware/keymaster/keymaster.b00 \
     vendor/moto/shamu/proprietary/vendor/firmware/keymaster/keymaster.b01:system/vendor/firmware/keymaster/keymaster.b01 \
     vendor/moto/shamu/proprietary/vendor/firmware/keymaster/keymaster.b02:system/vendor/firmware/keymaster/keymaster.b02 \
